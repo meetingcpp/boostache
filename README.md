@@ -5,6 +5,8 @@ Boostache is a text template processing engine. The initial release uses the Mus
 
 Disclaimer: Boostache is NOT an official Boost library
 
+![CppCon talk by Michael Caisse about using boostache](https://www.youtube.com/watch?v=8zVqbLeG-vw)
+
 
 Status
 ==============
